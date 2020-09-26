@@ -1,0 +1,14 @@
+ul.autoComplete {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li.select {
+    background-color: lightgray;
+  }
+  
+  button {
+    background-color: red;
+    color: white;
+  }
